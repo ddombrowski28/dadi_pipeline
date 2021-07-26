@@ -1,3 +1,8 @@
+This is my reworking of dportnik's dadi logic. My addition has been to allow multiprocessing capabilities within the simulation process. This may cause certain features not to work, but should increase speed for systems with many cores. Use command line arguments with Optimize_Functions.py to start.
+
+below from dportnik
+-----------------------------------
+
 # Perform Demographic Modeling with dadi using dadi_pipeline
 
 ---------------------------------
